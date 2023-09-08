@@ -1,0 +1,30 @@
+body {
+    background-color: #80458D;
+    color: white;
+    font-family: Arial, sans-serif;
+}
+
+#contenedor {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+#avatar {
+    float: right;
+    width: 200px;
+    height: 200px;
+}
+
+#avatar img {
+    width: 100%;
+    height: auto;
+}
+
+#presentacion, #sobreMi, #tecnologias, #formacion, #idiomas {
+    margin-bottom: 50px;
+}
+
+#presentacion h2, #sobreMi h2, #tecnologias h2, #formacion h2, #idiomas h2 {
+    margin-bottom: 20px;
+}
