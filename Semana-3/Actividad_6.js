@@ -7,4 +7,5 @@ let a1nombreCompleto;
 let _nombreCompleto;
 let $nombreCompleto;
 
+let ruptura = 10;
 //let 1nombreCompleto; no esta permitido iniciar el nombre de una variable con numeros
